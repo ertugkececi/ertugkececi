@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ertugkececi
-- 👀 I’m interested in C# .Net Framework Java and Mobile Programming
-- 🌱 I’m currently learning Android Studio(Java&Kotlin) & ASP.Net Core MVC
+- 👀 I’m interested in C# .NetCore, HTML,CSS,JavaScript and NodeJS
+- 🌱 My next step is learning ReactJS and NodeJS. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {
     ertugkececi@gmail.com
